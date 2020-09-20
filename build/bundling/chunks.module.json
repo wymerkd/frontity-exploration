@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "ff63d53f74adecbc364a",
+  "publicPath": "/static/",
+  "outputPath": "/Users/wymerkd/Desktop/kw-portfolio/build/static",
+  "assetsByChunkName": {
+    "kw-portfolio": "kw-portfolio.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "kw-portfolio.module.js",
+      "size": 5071079,
+      "chunks": [
+        "kw-portfolio"
+      ],
+      "chunkNames": [
+        "kw-portfolio"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47669,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "kw-portfolio": {
+      "chunks": [
+        "kw-portfolio"
+      ],
+      "assets": [
+        "kw-portfolio.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "kw-portfolio": {
+      "chunks": [
+        "kw-portfolio"
+      ],
+      "assets": [
+        "kw-portfolio.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
