@@ -1,4 +1,4 @@
-# kw-portfolio
+# frontity-exploration
 
 This project was bootstrapped with [Frontity](https://frontity.org/).
 

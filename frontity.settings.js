@@ -18,20 +18,16 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Projects",
+              "/home/projects/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Contact",
+              "/home/contact/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
+              "Resume",
+              "www.google.com/"
             ]
           ],
           "featured": {
@@ -45,7 +41,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://test.frontity.org/wp-json"
+          "api": "https://kylewymer.com//wp-json"
         }
       }
     },

@@ -27,10 +27,10 @@ const Container = styled.div`
   max-width: 100%;
   box-sizing: border-box;
   padding: 24px;
-  color: #fff;
+  color: #bada55;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
 `;
 
 const Title = styled.h2`

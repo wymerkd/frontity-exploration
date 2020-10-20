@@ -2,17 +2,46 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "ff63d53f74adecbc364a",
+  "hash": "72e3d1e9c84b8d6aac05",
   "publicPath": "/static/",
   "outputPath": "/Users/wymerkd/Desktop/kw-portfolio/build/static",
   "assetsByChunkName": {
-    "kw-portfolio": "kw-portfolio.module.js",
+    "kw-portfolio": [
+      "kw-portfolio.module.js",
+      "kw-portfolio.733c2089827e8b9594a6.hot-update.js"
+    ],
     "list": "list.module.js"
   },
   "assets": [
     {
+      "name": "733c2089827e8b9594a6.hot-update.json",
+      "size": 54,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "kw-portfolio.733c2089827e8b9594a6.hot-update.js",
+      "size": 20243,
+      "chunks": [
+        "kw-portfolio"
+      ],
+      "chunkNames": [
+        "kw-portfolio"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
       "name": "kw-portfolio.module.js",
-      "size": 5071079,
+      "size": 5071104,
       "chunks": [
         "kw-portfolio"
       ],
@@ -42,7 +71,8 @@
         "kw-portfolio"
       ],
       "assets": [
-        "kw-portfolio.module.js"
+        "kw-portfolio.module.js",
+        "kw-portfolio.733c2089827e8b9594a6.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -54,7 +84,8 @@
         "kw-portfolio"
       ],
       "assets": [
-        "kw-portfolio.module.js"
+        "kw-portfolio.module.js",
+        "kw-portfolio.733c2089827e8b9594a6.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
